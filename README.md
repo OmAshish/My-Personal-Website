@@ -1,2 +1,3 @@
 # My-Personal-Website (this is my old website template)
-Om Ashish Mishra
+
+You can use this template for your project or web building and learning! 
